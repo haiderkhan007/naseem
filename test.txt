@@ -1,0 +1,5 @@
+total 12
+drwxrwxr-x  3 haider haider 4096 Nov  5 18:30 .
+drwxr-x--- 18 haider haider 4096 Nov  5 18:30 ..
+drwxrwxr-x  7 haider haider 4096 Nov  5 18:30 .git
+-rw-rw-r--  1 haider haider    0 Nov  5 18:30 test.txt
